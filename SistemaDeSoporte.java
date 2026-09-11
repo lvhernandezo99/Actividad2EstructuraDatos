@@ -1,6 +1,6 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-class SistemaDeSoporte{
+public class SistemaDeSoporte{
     private SolicitudSoporte[] cola;
     private int front;
     private int rear;
